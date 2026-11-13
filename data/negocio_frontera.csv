@@ -1,0 +1,31 @@
+hoja,politica,factor_seguridad,fill_rate,inventario_prom_clp,venta_perdida_u,pedidos
+negocio_frontera,A · práctica simple,0.0,0.9837,6360074,4719,690
+negocio_frontera,A · práctica simple,0.25,0.99089,6768831,2637,690
+negocio_frontera,A · práctica simple,0.5,0.99529,7241231,1362,690
+negocio_frontera,A · práctica simple,0.75,0.99765,7687163,682,690
+negocio_frontera,A · práctica simple,1.0,0.99896,8196435,302,690
+negocio_frontera,A · práctica simple,1.25,0.99962,8686320,109,690
+negocio_frontera,A · práctica simple,1.5,0.9999,9206680,30,690
+negocio_frontera,A · práctica simple,2.0,1.0,10237411,0,690
+negocio_frontera,A · práctica simple,2.5,1.0,11249710,0,690
+negocio_frontera,A · práctica simple,3.0,1.0,12289471,0,690
+negocio_frontera,B · Hito 1,0.0,0.97356,6086083,7656,690
+negocio_frontera,B · Hito 1,0.25,0.98215,6353416,5169,690
+negocio_frontera,B · Hito 1,0.5,0.9884,6668158,3358,690
+negocio_frontera,B · Hito 1,0.75,0.99249,6996590,2175,690
+negocio_frontera,B · Hito 1,1.0,0.99571,7349502,1241,690
+negocio_frontera,B · Hito 1,1.25,0.99721,7712448,808,690
+negocio_frontera,B · Hito 1,1.5,0.99836,8092821,474,690
+negocio_frontera,B · Hito 1,2.0,0.9994,8848217,174,690
+negocio_frontera,B · Hito 1,2.5,0.99977,9629196,66,690
+negocio_frontera,B · Hito 1,3.0,0.99992,10401218,25,690
+negocio_frontera,C · Hito 2 (LSTM),0.0,0.97312,5958714,7781,690
+negocio_frontera,C · Hito 2 (LSTM),0.25,0.98107,6219736,5480,690
+negocio_frontera,C · Hito 2 (LSTM),0.5,0.9869,6499913,3793,690
+negocio_frontera,C · Hito 2 (LSTM),0.75,0.99166,6803993,2414,690
+negocio_frontera,C · Hito 2 (LSTM),1.0,0.99497,7139335,1456,690
+negocio_frontera,C · Hito 2 (LSTM),1.25,0.99711,7445700,835,690
+negocio_frontera,C · Hito 2 (LSTM),1.5,0.99815,7828289,536,690
+negocio_frontera,C · Hito 2 (LSTM),2.0,0.99943,8538394,165,690
+negocio_frontera,C · Hito 2 (LSTM),2.5,0.99985,9285872,42,690
+negocio_frontera,C · Hito 2 (LSTM),3.0,0.99992,10020457,25,690

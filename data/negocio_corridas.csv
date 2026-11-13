@@ -1,0 +1,49 @@
+hoja,fecha,unidades,valor_pedido_clp,series_error_alto,series_anomalia,series_con_lstm,requiere_aprobacion,motivos,requiere_aprobacion_umbral_relativo
+negocio_corridas,2017-01-30,0,0,1,0,12,SI,error del modelo alto,SI
+negocio_corridas,2017-02-06,4518,9071820,1,0,12,SI,error del modelo alto,SI
+negocio_corridas,2017-02-13,4710,9494700,2,0,12,SI,error del modelo alto,SI
+negocio_corridas,2017-02-20,4848,9966720,2,0,12,SI,error del modelo alto,SI
+negocio_corridas,2017-02-27,4560,9148800,1,0,14,SI,error del modelo alto,SI
+negocio_corridas,2017-03-06,6042,12109380,2,0,12,SI,pedido sobre umbral | error del modelo alto,SI
+negocio_corridas,2017-03-13,5070,10380300,0,0,13,SI,pedido sobre umbral,NO
+negocio_corridas,2017-03-20,5850,11639700,1,0,11,SI,pedido sobre umbral | error del modelo alto,SI
+negocio_corridas,2017-03-27,5442,11136180,0,0,11,SI,pedido sobre umbral,NO
+negocio_corridas,2017-04-03,6408,13119120,0,0,13,SI,pedido sobre umbral,NO
+negocio_corridas,2017-04-10,6918,13961820,0,0,11,SI,pedido sobre umbral,NO
+negocio_corridas,2017-04-17,6420,13043400,0,0,11,SI,pedido sobre umbral,NO
+negocio_corridas,2017-04-24,6480,12618000,0,0,10,SI,pedido sobre umbral,NO
+negocio_corridas,2017-05-01,6300,12911400,0,0,10,SI,pedido sobre umbral,NO
+negocio_corridas,2017-05-08,6912,14053680,0,0,10,SI,pedido sobre umbral,NO
+negocio_corridas,2017-05-15,7050,14234100,0,0,10,SI,pedido sobre umbral,NO
+negocio_corridas,2017-05-22,6834,13681860,0,0,9,SI,pedido sobre umbral,NO
+negocio_corridas,2017-05-29,7002,14007780,0,0,11,SI,pedido sobre umbral,NO
+negocio_corridas,2017-06-05,7182,14671980,0,0,10,SI,pedido sobre umbral,NO
+negocio_corridas,2017-06-12,7428,14890920,0,0,13,SI,pedido sobre umbral,NO
+negocio_corridas,2017-06-19,7878,15997020,0,0,11,SI,pedido sobre umbral,NO
+negocio_corridas,2017-06-26,6864,13838160,0,0,15,SI,pedido sobre umbral,NO
+negocio_corridas,2017-07-03,7920,15868800,0,0,15,SI,pedido sobre umbral,NO
+negocio_corridas,2017-07-10,7788,15852120,0,0,14,SI,pedido sobre umbral,NO
+negocio_corridas,2017-07-17,7638,15430620,0,0,13,SI,pedido sobre umbral,NO
+negocio_corridas,2017-07-24,8400,16663200,0,0,8,SI,pedido sobre umbral,NO
+negocio_corridas,2017-07-31,7206,14718540,0,0,13,SI,pedido sobre umbral,NO
+negocio_corridas,2017-08-07,6324,12975960,0,0,12,SI,pedido sobre umbral,NO
+negocio_corridas,2017-08-14,6738,13769220,1,0,9,SI,pedido sobre umbral | error del modelo alto,SI
+negocio_corridas,2017-08-21,6936,13851840,1,0,12,SI,pedido sobre umbral | error del modelo alto,SI
+negocio_corridas,2017-08-28,6654,13608060,0,0,9,SI,pedido sobre umbral,NO
+negocio_corridas,2017-09-04,5886,11718540,0,0,11,SI,pedido sobre umbral,NO
+negocio_corridas,2017-09-11,6312,13123680,0,0,11,SI,pedido sobre umbral,NO
+negocio_corridas,2017-09-18,6318,12646620,0,0,11,SI,pedido sobre umbral,NO
+negocio_corridas,2017-09-25,6732,13637880,0,0,11,SI,pedido sobre umbral,NO
+negocio_corridas,2017-10-02,5418,11125620,0,0,11,SI,pedido sobre umbral,NO
+negocio_corridas,2017-10-09,5568,10870320,0,0,7,SI,pedido sobre umbral,NO
+negocio_corridas,2017-10-16,5760,11700000,0,0,8,SI,pedido sobre umbral,NO
+negocio_corridas,2017-10-23,5886,11981340,0,0,7,SI,pedido sobre umbral,NO
+negocio_corridas,2017-10-30,5844,11486760,0,0,9,SI,pedido sobre umbral,NO
+negocio_corridas,2017-11-06,7038,14515020,0,2,12,SI,pedido sobre umbral | venta anómala,SI
+negocio_corridas,2017-11-13,6516,13269240,0,0,12,SI,pedido sobre umbral,NO
+negocio_corridas,2017-11-20,6120,12110400,0,0,14,SI,pedido sobre umbral,NO
+negocio_corridas,2017-11-27,6606,13421340,0,0,12,SI,pedido sobre umbral,NO
+negocio_corridas,2017-12-04,4506,9086340,0,0,14,NO,,NO
+negocio_corridas,2017-12-11,3444,6841560,0,0,8,NO,,NO
+negocio_corridas,2017-12-18,4362,8648580,1,0,12,SI,error del modelo alto,SI
+negocio_corridas,2017-12-25,4704,9590160,1,0,8,SI,error del modelo alto,SI

@@ -1,0 +1,47 @@
+hoja,indicador,valor,unidad,descripcion
+negocio_roi,beneficio_horas_clp,1300000.0,CLP/año,130 h/año ahorradas x costo hora
+negocio_roi,beneficio_inventario_clp,16492.7153,CLP/año,menos inventario que la práctica simple al 99.5% de servicio x costo de mantenerlo
+negocio_roi,beneficio_total_clp,1316492.7153,CLP/año,horas + inventario
+negocio_roi,costo_n8n_clp,325440.0,CLP/año,plan de n8n
+negocio_roi,costo_llm_clp,378.7602,CLP/año,tokens del LLM por corrida x corridas al año
+negocio_roi,costo_mantencion_clp,450000.0,CLP/año,horas de mantención x costo hora
+negocio_roi,costo_total_clp,775818.7602,CLP/año,n8n + LLM + mantención
+negocio_roi,inversion_clp,800000.0,CLP,horas de desarrollo x costo hora
+negocio_roi,beneficio_neto_clp,540673.9551,CLP/año,beneficio - costo
+negocio_roi,roi_anio1,-0.1646,fracción,(neto - inversión) / (costo + inversión)
+negocio_roi,roi_regimen,0.6969,fracción,"neto / costo, desde el año 2"
+negocio_roi,payback_anios,1.4796,años,inversión / neto
+negocio_roi,inventario_A_clp,7209662.9002,CLP,inventario promedio de la práctica simple al 99.5%
+negocio_roi,inventario_C_clp,7143692.0389,CLP,inventario promedio del sistema (Hito 2) al 99.5%
+negocio_roi,ahorro_inventario_capital_clp,65970.8613,CLP,inventario A - inventario C
+negocio_roi,lunes_simulados,48.0,lunes,30-01 a 25-12-2017
+negocio_roi,lunes_requieren_aprobacion,46.0,lunes,política C con las reglas actuales del flujo
+negocio_roi,pct_lunes_requieren_aprobacion,0.9583,fracción,riesgo de fatiga de alertas si es alto
+negocio_roi,lunes_aprobacion_umbral_relativo,12.0,lunes,si el umbral fuera 1.3 x la mediana de las 8 semanas previas
+negocio_roi,lunes_motivo_pedido_sobre_umbral,39.0,lunes,pedido total > umbral en CLP
+negocio_roi,lunes_motivo_error_alto,11.0,lunes,alguna serie con WAPE > umbral
+negocio_roi,lunes_motivo_venta_anomala,1.0,lunes,alguna serie con venta anómala
+negocio_roi,pct_combinaciones_lstm_elegida,0.7444,fracción,lunes x tienda-SKU en que ganó la LSTM
+negocio_roi,historial_corridas,2.0,corridas,filas de la hoja historial
+negocio_roi,historial_requieren_aprobacion,2.0,corridas,requiere_revision_humana = SI
+negocio_roi,historial_respuestas_medidas,0.0,corridas,con hora de respuesta del jefe
+negocio_roi,historial_mediana_respuesta_min,,minutos,desde que corre el flujo hasta que el jefe responde
+negocio_roi,historial_estado: aprobado por el jefe de abastecimiento,2.0,corridas,decisión registrada
+negocio_roi,supuesto: costo_hora_clp,10000.0,,celda de supuestos del notebook
+negocio_roi,supuesto: horas_manual_semana,3.0,,celda de supuestos del notebook
+negocio_roi,supuesto: horas_sistema_semana,0.5,,celda de supuestos del notebook
+negocio_roi,supuesto: costo_mantener_inventario,0.25,,celda de supuestos del notebook
+negocio_roi,supuesto: n8n_eur_mes,24.0,,celda de supuestos del notebook
+negocio_roi,supuesto: eur_clp,1130.0,,celda de supuestos del notebook
+negocio_roi,supuesto: usd_clp,980.0,,celda de supuestos del notebook
+negocio_roi,supuesto: tokens_entrada,2865.0,,celda de supuestos del notebook
+negocio_roi,supuesto: tokens_salida,1500.0,,celda de supuestos del notebook
+negocio_roi,supuesto: usd_por_millon_entrada,0.25,,celda de supuestos del notebook
+negocio_roi,supuesto: usd_por_millon_salida,2.0,,celda de supuestos del notebook
+negocio_roi,supuesto: corridas_anio,104.0,,celda de supuestos del notebook
+negocio_roi,supuesto: horas_mantencion_anio,45.0,,celda de supuestos del notebook
+negocio_roi,supuesto: horas_desarrollo,80.0,,celda de supuestos del notebook
+negocio_roi,supuesto: nivel_servicio_comparacion,0.995,,celda de supuestos del notebook
+negocio_roi,supuesto: umbral_valor_revision_clp,10000000.0,,celda de supuestos del notebook
+negocio_roi,supuesto: umbral_wape_revision,0.25,,celda de supuestos del notebook
+negocio_roi,supuesto: factor_umbral_relativo,1.3,,celda de supuestos del notebook
