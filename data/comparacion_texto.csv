@@ -1,0 +1,4 @@
+,accuracy,f1_macro,ms_por_resena_cpu
+0 · Regla de palabras,0.504,0.471,
+1 · BERT multilingüe (estrellas),0.771,0.761,542.801
+2 · XLM-RoBERTa (sentimiento),0.581,0.51,475.943
